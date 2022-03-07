@@ -58,11 +58,7 @@
     <hr>
     </div>    
     <div data-role="foooter">
-        <p>國立金門大學進資一程式設計課程期末報告</p>
-        <p>組別:第十一組</p>
-        <p>組長:210410516陳正哲</p>
-        <p>報告人:210410546吳雯隆<p/>
-        <p>資料整理:210410518周曉瑩210410520張志安<p/>
+      <p>國立金門大學進資一程式設計課程期末報告</p>
         <p>版本:NO.E6.01<p/>
     </div>   
 <div data-role="page" id="no1" data-add-back="true" data-back-btn-text="上一頁">
